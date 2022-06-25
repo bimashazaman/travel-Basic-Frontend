@@ -932,4 +932,41 @@ html,body{
     object-fit: cover;
   }
 
-/*========================Thank you=================*/
+.headlineRent {
+    font-size: 4rem;
+   text-align: center;
+   margin-top: 5%;
+}
+
+.reqDetails {
+    font-size: 1.5rem;
+    text-align: center;
+  font-weight: 400;
+  padding-right: 10%;
+  padding-left: 10%;
+  color: #181717;
+  line-height: 1.5;
+
+}
+
+.carPic {
+  
+    width: 60%;
+    height: 60%;
+}
+
+.rent {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 5%;
+  align-self: center;
+  text-align: center;
+}
+
+.rent img {
+  align-items: center;
+  justify-content: center;
+
+}
